@@ -11,8 +11,7 @@ is spoken language. Protocol makes it possible for people who speak different la
 No copying and pasting into Google Translate is required. Every message is translated automatically.
 
 ## Screenshots
-![Screenshot](https://raw.githubusercontent.com/jeremygottfried/protocol-frontend/master/Protocol_Screenshot.png)
-<img src='https://github.com/jeremygottfried/protocol-frontend/blob/master/Protocol.gif' width=1000>
+<img src='https://github.com/jeremygottfried/protocol-frontend/blob/master/Protocol.gif' width=1200>
 ## Tech/Frameworks used
 - JWT + bcrypt authentication and authorization
 - Vanilla JS frontend
