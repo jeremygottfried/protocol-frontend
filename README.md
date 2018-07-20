@@ -10,7 +10,7 @@ Today we can message people all across the world in real time, yet one of the fe
 is spoken language. Protocol makes it possible for people who speak different languages to have conversations in real time. 
 No copying and pasting into Google Translate is required. Every message is translated automatically.
 
-## Gif
+## Video Clip
 <img src='https://github.com/jeremygottfried/protocol-frontend/blob/master/Protocol.gif' width=1200>
 ## Tech/Frameworks used
 - JWT + bcrypt authentication and authorization
