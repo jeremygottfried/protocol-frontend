@@ -12,7 +12,7 @@ No copying and pasting into Google Translate is required. Every message is trans
 
 ## Screenshots
 ![Screenshot](https://raw.githubusercontent.com/jeremygottfried/protocol-frontend/master/Protocol_Screenshot.png)
-<img src='https://raw.githubusercontent.com/jeremygottfried/protocol-frontend/master/Protocol_Screenshot.png' width=1000>
+<img src='https://github.com/jeremygottfried/protocol-frontend/blob/master/Protocol_demo.gif' width=1000>
 ## Tech/Frameworks used
 - JWT + bcrypt authentication and authorization
 - Vanilla JS frontend
